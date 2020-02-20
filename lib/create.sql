@@ -1,1 +1,1 @@
-sqlite3
+CREATE TABLE bears ()
