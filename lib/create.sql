@@ -1,1 +1,1 @@
-CREATE TABLE bears ()
+CREATE TABLE bears ( id PRIMARY KEY INTEGER )
